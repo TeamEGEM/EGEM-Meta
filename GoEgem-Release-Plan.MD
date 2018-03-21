@@ -1,4 +1,4 @@
-DRAFT - PLAN MUST BE COMPLETED BEFORE TESTING IS RUN AND ACCEPTED
+DRAFT - PLAN MUST BE COMPLETED AND OKAY BEFORE TESTING IS RUN AND ACCEPTED
 
 we can run the production tests and sign off on this plan before release
 
