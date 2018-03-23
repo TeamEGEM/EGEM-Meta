@@ -1,12 +1,12 @@
 Go EGEM Production test runs:
 Test run number 1:
-PreEra0 	[ ] block reward 9
-Era0 		[ ] dev fee transition [ ] miner reward transition [ ] difficulty transition
-Era1		[ ] dev fee transition [ ] miner reward transition [ ] difficulty transition
-Era1a 		[ ] dev fee transition
-Era2 		[ ] dev fee transition [ ] miner reward transition [ ] difficulty transition
-Era 2a 		[ ] dev fee transition
-Error: i had the 0.25 dev reward in the 0.75 one
+- PreEra0 	[ ] block reward 9
+- Era0 		[ ] dev fee transition [ ] miner reward transition [ ] difficulty transition
+- Era1		[ ] dev fee transition [ ] miner reward transition [ ] difficulty transition
+- Era1a 		[ ] dev fee transition
+- Era2 		[ ] dev fee transition [ ] miner reward transition [ ] difficulty transition
+- Era 2a 		[ ] dev fee transition
+- Error: i had the 0.25 dev reward in the 0.75 one
 
 Test run number 2:
 PreEra0 	[ ] block reward 9
